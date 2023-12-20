@@ -161,6 +161,14 @@ strong {
 /*---------------------------------------
   ANIMATED HEADLINE               
 -----------------------------------------*/
+.events-list {
+  color: rgb(0, 3, 1);
+}
+
+.events-header {
+  color: rgb(79, 82, 80);
+}
+
 .cd-words-wrapper {
   display: inline-block;
   position: relative;
