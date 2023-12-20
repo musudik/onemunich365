@@ -782,6 +782,8 @@ strong {
 
 .member-block-image {
   transition: all 0.3s;
+  height: 350;
+  width: 320;
 }
 
 .member-block-info {
