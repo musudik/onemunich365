@@ -480,7 +480,7 @@ strong {
 
 .navbar-brand-text small {
   display: block;
-  font-size: 10px;
+  font-size: 15px;
   line-height: 1;
   text-transform: uppercase;
 }
@@ -643,9 +643,9 @@ strong {
   HERO        
 -----------------------------------------*/
 .hero-section {
-  background-image: url('../images/anna-rosar-ZxFyVBHMK-c-unsplash.jpg');
+  background-image: url('../images/vb-group-pic.jpg');
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 100%;
   background-position: center;
   position: relative;
   padding-top: 100px;
